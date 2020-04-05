@@ -1,9 +1,0 @@
-git clone https
-git status                        
-git add nombreArchivo
-git commit -m"NombreCommit"
-git push origin NombreBranch
-git pull origin NombreBranch
-git checkout -b nombreNuevaBranch
-git checkout BranchAlaQueVas
-git checkout -b crearEirARama
